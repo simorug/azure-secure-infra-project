@@ -27,55 +27,55 @@ This project demonstrates a secure Azure environment using private networking an
 # Screenshots
 
 ## Resource Group
-![Resource Group](images/01-resource-list.png)
+![Resource Group](images/01-resource-list.PNG)
 
 ## Virtual Network
-![Virtual Network](images/02-vnet-overview.png)
+![Virtual Network](images/02-vnet-overview.PNG)
 
 ## Subnets
-![Subnets](images/03-subnets.png)
+![Subnets](images/03-subnets.PNG)
 
 ## Virtual Machine
-![Virtual Machine](images/04-vm-overview.png)
+![Virtual Machine](images/04-vm-overview.PNG)
 
 ## VM Networking
-![VM Networking](images/05-vm-networking.png)
+![VM Networking](images/05-vm-networking.PNG)
 
 ## NSG Rules
-![NSG Rules](images/06-nsg-rules.png)
+![NSG Rules](images/06-nsg-rules.PNG)
 
 ## Azure Bastion
-![Azure Bastion](images/07-bastion.png)
+![Azure Bastion](images/07-bastion.PNG)
 
 ## Storage Account
-![Storage](images/08-storage-overview.png)
+![Storage](images/08-storage-overview.PNG)
 
 ## Storage Private Endpoint
-![Storage Private Endpoint](images/09-storage-private-endpoint.png)
+![Storage Private Endpoint](images/09-storage-private-endpoint.PNG)
 
 ## Key Vault
-![Key Vault](images/10-keyvault-overview.png)
+![Key Vault](images/10-keyvault-overview.PNG)
 
 ## Key Vault Networking
-![Key Vault Networking](images/11-keyvault-networking.png)
+![Key Vault Networking](images/11-keyvault-networking.PNG)
 
 ## Private DNS
-![Private DNS](images/12-private-dns.png)
+![Private DNS](images/12-private-dns.PNG)
 
 ## Private Endpoint
-![Private Endpoint](images/13-private-endpoint.png)
+![Private Endpoint](images/13-private-endpoint.PNG)
 
 ## NIC Overview
-![NIC Overview](images/14-nic-overview.png)
+![NIC Overview](images/14-nic-overview.PNG)
 
 ## Private Endpoint DNS
-![Private Endpoint DNS](images/15-private-endpoint-dns.png)
+![Private Endpoint DNS](images/15-private-endpoint-dns.PNG)
 
 ## Key Vault IAM
-![Key Vault IAM](images/16-keyvault-iam.png)
+![Key Vault IAM](images/16-keyvault-iam.PNG)
 
 ## VM Identity
-![VM Identity](images/17-vm-identity.png)
+![VM Identity](images/17-vm-identity.PNG)
 
 ## Storage IAM
-![Storage IAM](images/18-storage-iam.png)
+![Storage IAM](images/18-storage-iam.PNG)
