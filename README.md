@@ -134,7 +134,7 @@ Private DNS Zones are configured for:
 ![Key Vault](images/10-keyvault-overview.PNG)
 
 ## Key Vault Networking
-![Key Vault Networking](images/11-keyvault-networking.PNG)
+![Key Vault Networking](images/11-keyvault-networking-pe.PNG)
 
 ## Key Vault IAM
 ![Key Vault IAM](images/16-keyvault-iam.PNG)
